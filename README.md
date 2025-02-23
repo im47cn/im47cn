@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/im47cn/im47cn/main/assets/github-contribution-grid-snake.svg" >
 </div>
 
 ### Hi there 👋
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im47cn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im47cn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im47cn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im47cn&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im47cn&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im47cn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im47cn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im47cn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im47cn&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im47cn&theme=github)
