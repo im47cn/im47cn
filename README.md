@@ -46,17 +46,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 项目展示
-
-<div align="center">
-  <a href="链接到项目1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im47cn&repo=项目1&theme=react" />
-  </a>
-  <a href="链接到项目2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=im47cn&repo=项目2&theme=react" />
-  </a>
-</div>
-
 ## 📈 GitHub 统计
 
 <div align="center">
