@@ -10,7 +10,7 @@
 
 ## 🚀 关于我
 
-- 🔭 目前在 XxxPay 担任架构师
+- 🔭 目前在 XxxPay 担任 AI实验室 负责人
 - 🌱 正在学习 AI相关技术/框架
 - 👯 希望在 AI领域/技术 方面进行合作
 - 💬 可以向我咨询关于 [专长领域] 的问题
@@ -77,17 +77,18 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-
-### 来访者数 👀
-  
-<img src="https://profile-counter.glitch.me/im47cn/count.svg" />
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="随笔记事本" width="100">
   <p>很高兴认识你！别忘了给我的仓库点个星⭐哦！</p>
 </div>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('im47cn', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#5cb85c',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
