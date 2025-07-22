@@ -83,4 +83,4 @@ Here are some ideas to get you started:
   <p>很高兴认识你！别忘了给我的仓库点个星⭐哦！</p>
 </div>
 
-<iframe id='kofiframe' src='https://ko-fi.com/im47cn/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='im47cn'></iframe>
+<a href='https://ko-fi.com/W7W71IFTGX' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
