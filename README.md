@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-im47cn-blue?style=flat-square&logo=linkedin)](你的LinkedIn链接)
 [![Blog](https://img.shields.io/badge/Blog-im47.cn-orange?style=flat-square&logo=blogger)](你的博客链接)
 [![Twitter](https://img.shields.io/badge/Twitter-@dreambt-blue?style=flat-square&logo=twitter)](你的Twitter链接)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W71IFTGX)
 
 </div>
 
@@ -82,5 +83,3 @@ Here are some ideas to get you started:
 <div align="center">
   <p>很高兴认识你！别忘了给我的仓库点个星⭐哦！</p>
 </div>
-
-<a href='https://ko-fi.com/W7W71IFTGX' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
