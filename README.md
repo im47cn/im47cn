@@ -83,12 +83,4 @@ Here are some ideas to get you started:
   <p>很高兴认识你！别忘了给我的仓库点个星⭐哦！</p>
 </div>
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('im47cn', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#5cb85c',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<iframe id='kofiframe' src='https://ko-fi.com/im47cn/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='im47cn'></iframe>
