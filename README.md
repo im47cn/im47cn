@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 ## 📈 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im47cn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im47cn&layout=compact&langs_count=7&theme=react"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im47cn&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im47cn&theme=github)
