@@ -58,12 +58,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=im47cn&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"/>
-</div>
-
 ## 📫 联系我
 
 <div align="center">
